@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" preserveAspectRatio="xMidYMax slice"><rect width="400" height="340" fill="#E9E1DB"/>
+<g filter="saturate(.6)"><path d="M200 46c-62 0-104 44-110 110-4 44-26 64-44 118-6 18-2 38 8 66h292c10-28 14-48 8-66-18-54-40-74-44-118-6-66-48-110-110-110z" fill="#4A352E"/>
+<path d="M88 150c-14-10-30-6-38 6M96 110c-16-14-34-14-44-2M120 70c-12-18-30-24-44-16M312 150c14-10 30-6 38 6M304 110c16-14 34-14 44-2M280 70c12-18 30-24 44-16M150 52c-6-20-20-30-36-28M250 52c6-20 20-30 36-28M60 220c-18-4-30 6-34 20M340 220c18-4 30 6 34 20M70 270c-16 2-24 14-24 28M330 270c16 2 24 14 24 28" stroke="#4A352E" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M100 120c-10-6-18-2-22 6M300 120c10-6 18-2 22 6M84 190c-12-2-20 6-20 16M316 190c12-2 20 6 20 16" stroke="#5A4238" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="200" cy="172" rx="62" ry="76" fill="#D9B79E"/>
+<path d="M120 340c8-58 42-86 80-86s72 28 80 86z" fill="#D9B79E"/>
+<path d="M104 340c10-46 34-70 54-78l42 30 42-30c20 8 44 32 54 78z" fill="#EFE7E1"/></g>
+</svg>
